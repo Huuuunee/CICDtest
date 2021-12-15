@@ -3,5 +3,6 @@ os: linux
 
 files:
   -source: /
-    destination: /home/ec2-user
+    destination: /home/ec2-user/build
+    
 
